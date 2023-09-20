@@ -1,0 +1,10 @@
+admin
+
+7OYc1j6opYwADT3yU8XZ
+
+shervs-database.cd2ptkew5xyw.eu-west-2.rds.amazonaws.com
+
+https://github.com/Emekahub/schoolfile.git
+
+
+C:\Users\HP\Desktop\Desktop\school_portal
